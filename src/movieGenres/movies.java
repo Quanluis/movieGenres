@@ -18,15 +18,8 @@ public class movies extends Creators {
 	public String yearReleased;
 	public String Genre;
 	public String rating;
+	public String dramaMovies;
 	
-	
-	public void trimRomance() {
-		
-		
-		//
-		System.out.println("Output" + movieGenreRomance.get(0));
-		System.out.println(movieGenreRomance);
-		
-	}
+
 	
 }
